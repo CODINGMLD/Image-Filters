@@ -15,3 +15,9 @@
 ![2](https://user-images.githubusercontent.com/65526236/224263880-a514493f-72c5-486c-a559-4ad22a40d227.PNG)
 
 ![3](https://user-images.githubusercontent.com/65526236/224263894-aaa1848f-35da-401a-87fd-d175dfa9fc52.PNG)
+
+*.csharp linguist-detectable=true  
+*.java linguist-detectable=false  
+*.js linguist-detectable=false  
+*.html linguist-detectable=false  
+*.xml linguist-detectable=false
